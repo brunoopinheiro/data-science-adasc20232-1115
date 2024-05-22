@@ -54,6 +54,6 @@ Alguns gráficos mais pesados, como os do `sns.pairplot()` ou os produzidos pelo
         - [X] Comparações;
         - [ ] Tendências de crescimento ou queda;
     - [X] Gráficos;
-    - [ ] Segmentação dos dados (agrupamentos em relação a variáveis de interesse);
+    - [X] Segmentação dos dados (agrupamentos em relação a variáveis de interesse);
     - [ ] Análise Preditiva (utilzação de modelos para predizer variáveis de interesse dos problemas levantados)
 
