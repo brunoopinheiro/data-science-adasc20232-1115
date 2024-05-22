@@ -36,9 +36,6 @@ pd.read_csv('https://raw.githubusercontent.com/wcota/covid19br/master/cases-braz
 ## Notebook
 O notebook que contem as atividades necessárias ao projeto encontra-se na raiz deste diretório, e pode ser acessado aqui: [Projeto](project_ml2.ipynb)
 
-### Gráficos Pesados
-Alguns gráficos mais pesados, como os do `sns.pairplot()` ou os produzidos pelo `plotly` podem ser mais lentos para reproduzir. Por isso, cópias desses gráficos estão disponíveis no diretório [`plots`](./plots/).
-
 ## TO-DO:
 - [X] Apresentação da Análise:
     - [X] Storytelling;
