@@ -13,23 +13,26 @@ pd.read_csv('https://raw.githubusercontent.com/wcota/covid19br/master/cases-braz
 ```
 
 ## Notebook
-O notebook que contem as atividades necessárias ao projeto encontra-se na raiz deste diretório, e pode ser acessado aqui: [Projeto](#)
+O notebook que contem as atividades necessárias ao projeto encontra-se na raiz deste diretório, e pode ser acessado aqui: [Projeto](project_ml2.ipynb)
+
+### Gráficos Pesados
+Alguns gráficos mais pesados, como os do `sns.pairplot()` ou os produzidos pelo `plotly` podem ser mais lentos para reproduzir. Por isso, cópias desses gráficos estão disponíveis no diretório [`plots`](./plots/).
 
 ## TO-DO:
-- [ ] Apresentação da Análise:
-    - [ ] Storytelling;
-    - [ ] Insights (Padrões que descrevam os elementos da base);
-    - [ ] Descrição do problema;
+- [X] Apresentação da Análise:
+    - [X] Storytelling;
+    - [X] Insights (Padrões que descrevam os elementos da base);
+    - [X] Descrição do problema;
     - [ ] Proposta de solução;
 - [ ] Entregáveis:
-    - [ ] Relatório com análise exploratória de dados;
-        - [ ] Descrição das variáveis (dados faltantes, tipos de dados, informações relacionadas e fontes);
-        - [ ] Limpeza da base;
-    - [ ] Análise Univariada e Multivariada:
-        - [ ] Medidas estatísticas;
-        - [ ] Comparações;
+    - [X] Relatório com análise exploratória de dados;
+        - [X] Descrição das variáveis (dados faltantes, tipos de dados, informações relacionadas e fontes);
+        - [X] Limpeza da base;
+    - [X] Análise Univariada e Multivariada:
+        - [X] Medidas estatísticas;
+        - [X] Comparações;
         - [ ] Tendências de crescimento ou queda;
-    - [ ] Gráficos;
+    - [X] Gráficos;
     - [ ] Segmentação dos dados (agrupamentos em relação a variáveis de interesse);
     - [ ] Análise Preditiva (utilzação de modelos para predizer variáveis de interesse dos problemas levantados)
 
